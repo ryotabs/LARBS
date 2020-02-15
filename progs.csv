@@ -82,3 +82,4 @@ G,https://github.com/lukesmithxyz/st.git,"is my custom build of suckless's termi
 G,https://github.com/lukesmithxyz/dwm.git,"is the window manager."
 ,slock,"allows you to lock your computer, and quickly unlock with your password."
 ,tlp,"battery utility for customizable power options"
+,lightdm,"display manager for login"
